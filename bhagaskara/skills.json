@@ -1,0 +1,26 @@
+[
+  {
+    "skill": "web design",
+    "value": 89
+  },
+  {
+    "skill": "graphic design",
+    "value": 71
+  },
+  {
+    "skill": "HTML/CSS",
+    "value": 76
+  },
+  {
+    "skill": "UI/UX",
+    "value": 86
+  },
+  {
+    "skill": "game dev",
+    "value": 58
+  },
+  {
+    "skill": "SMM",
+    "value": 94
+  }
+]

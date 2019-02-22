@@ -1,0 +1,34 @@
+{
+  "statistic": {
+    "posts": 355,
+    "readers": 1542,
+    "helpfulness": "97%",
+    "writers": 59
+  },
+  "posts": [
+    {
+      "author": "Lesale Christoper",
+      "source": "pinterest",
+      "text": "Fusce dapibus, tellus ac cursus commodo, tortor mauris \ncondimentum. Duis mollis, est non commodo luctus, nisi erat.",
+      "image": "https://tanuhaua.github.io/datas-file-json/bhagaskara/blog-images/autumn.jpg"
+    },
+    {
+      "author": "Latin Words",
+      "source": "twitter",
+      "text": "There are many variations of passages of Lorem Ipsum available.",
+      "image": "https://tanuhaua.github.io/datas-file-json/bhagaskara/blog-images/photo462024.jpeg"
+    },
+    {
+      "author": "Lesale Christoper",
+      "source": "facebook",
+      "text": "Woodland is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "image": "https://tanuhaua.github.io/datas-file-json/bhagaskara/blog-images/woodland.jpeg"
+    },
+    {
+      "author": "Lesale Christoper",
+      "source": "pinterest",
+      "text": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested.",
+      "image": "https://tanuhaua.github.io/datas-file-json/bhagaskara/blog-images/photo440731.jpeg"
+    }
+  ]
+}
