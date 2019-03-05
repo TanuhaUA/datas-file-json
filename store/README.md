@@ -2,6 +2,13 @@
 
 1. Отримати по API `https://tanuhaua.github.io/datas-file-json/store/goods.json` об'єкт з двома масивами:
     * `goods` - список товарів
+        * code - код
+        * name - имя
+        * qtty - к-во общее
+        * unit1 - ед. изм.
+        * pin - приходная цена
+        * p0 - розничная цена
+        * barcode - штрихкод
     * `goodsgroups`  - список груп товарів
 2. Реалізувати UI для перегляду товарів певної групи такого типу: 
 ![goods](./goods.jpg)
