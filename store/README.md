@@ -2,6 +2,7 @@
 
 1. Отримати по API `https://tanuhaua.github.io/datas-file-json/store/goods.json` об'єкт з двома масивами:
     * `goods` - список товарів
+        * type - тип (виводимо просто числове значення, без картинки)
         * code - код
         * name - имя
         * qtty - к-во общее
